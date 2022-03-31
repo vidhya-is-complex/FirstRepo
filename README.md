@@ -1,3 +1,3 @@
 # FirstRepo
-**New User to GItHub**
+**New User to GitHub**
 hey there! Im working on my First Repository.
